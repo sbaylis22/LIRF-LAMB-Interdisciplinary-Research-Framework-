@@ -1,0 +1,23 @@
+LIRF - The LAMB Interdisciplinary Research Framework
+Copyright (c) 2025 Samuel Andrew Baylis
+All rights reserved.
+
+---
+
+Permission is hereby granted for **academic, non-commercial use** of this framework under the following conditions:
+
+1. **Citation is required** for any use, adaptation, or reference to the framework, its structure, or its derived concepts.
+2. **Non-commercial use only**: No part of the framework may be used for commercial gain, technological development, API creation, software systems, AI training, or similar technological uses without express written permission from Samuel Andrew Baylis and BiblicalStory Incorporated.
+3. **Modifications**: Adaptations for academic research must clearly indicate that they are derivative works and must not claim authorship of the original framework.
+4. **Redistribution**: Redistribution of the framework or derivative works must include this license and the above citation.
+
+---
+
+**Commercial, technological, and derivative software rights are fully reserved** by Samuel Andrew Baylis and BiblicalStory Incorporated.
+
+For permission requests beyond academic use, please contact:
+📧 request@biblicalstory.org
+
+---
+
+THIS FRAMEWORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
